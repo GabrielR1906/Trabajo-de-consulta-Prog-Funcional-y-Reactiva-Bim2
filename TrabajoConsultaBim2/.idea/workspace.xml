@@ -4,7 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7170523b-93d8-437d-9131-f2fea1059551" name="Changes" comment="" />
+    <list default="true" id="7170523b-93d8-437d-9131-f2fea1059551" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Trabajo-de-consulta-Prog-Funcional-y-Reactiva-Bim2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/EjemploPRogramacionReactiva.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_implicitbox_3_0_3_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_monix_3_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_monix_catnap_3_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_monix_eval_3_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_monix_execution_3_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_monix_internal_jctools_3_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_monix_java_3_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_monix_reactive_3_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__io_monix_monix_tail_3_3_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__org_typelevel_cats_core_3_2_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__org_typelevel_cats_effect_3_2_5_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__org_typelevel_cats_kernel_3_2_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/libraries/sbt__org_typelevel_simulacrum_scalafix_annotations_3_0_5_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/src/main/scala/EjemploProgramacionReactiva.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/modules/TrabajoDeConsultaBim2-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/modules/TrabajoDeConsultaBim2-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/modules/TrabajoDeConsultaBim2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/.idea/modules/TrabajoDeConsultaBim2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$917021019f3438fe743d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$917021019f3438fe743d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$917021019f3438fe743d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$94e9bf5bb5162dfc8b42$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$94e9bf5bb5162dfc8b42.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$94e9bf5bb5162dfc8b42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$f820605fa36993cb6951$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$f820605fa36993cb6951.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$f820605fa36993cb6951.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$fe4ae2c88caadf7c2eef$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$fe4ae2c88caadf7c2eef.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/config-classes/$fe4ae2c88caadf7c2eef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/src/main/scala/TrabajoDeConsulta2Bim.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/EjemploProgReactiva.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/scala-3.1.0/update/update_cache_3/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/scala-3.1.0/update/update_cache_3/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/scala-3.1.0/update/update_cache_3/output" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/scala-3.1.0/update/update_cache_3/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../TrabajoDeConsultaBim2/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707018598507</updated>
-      <workItem from="1707018599521" duration="953000" />
+      <workItem from="1707018599521" duration="742000" />
     </task>
     <servers />
   </component>
